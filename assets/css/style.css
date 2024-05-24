@@ -20,3 +20,7 @@
     --bs-accordion-active-bg: #E5E5E5;
     --bs-accordion-btn-focus-box-shadow: #14213D;
   }
+
+  .logo-size {
+    width: 60%;;
+  }
